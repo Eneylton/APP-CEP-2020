@@ -1,0 +1,7 @@
+{
+  "name": "app-cep",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
